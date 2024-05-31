@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/hemanth1992june/hemanthdevops2/_apis/build/status%2Freddy-git.azpipeline?branchName=main)](https://dev.azure.com/hemanth1992june/hemanthdevops2/_build/latest?definitionId=4&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
